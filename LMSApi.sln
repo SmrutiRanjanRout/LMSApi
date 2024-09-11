@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Api", "LMS.Api\LMS.Api.csproj", "{6CFE0254-6F8C-45C1-BA3D-041D6FBD0762}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Business", "LMS.Business\LMS.Business.csproj", "{0C4C5D91-7590-4C2B-994B-36D6D7A5601E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.DataAccess", "LMS.DataAccess\LMS.DataAccess.csproj", "{096775B7-A2F1-48D5-8726-6956968C6B51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS.Model", "LMS.Model\LMS.Model.csproj", "{2F95B5BE-71FF-40F7-9048-980A06D37961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFE0254-6F8C-45C1-BA3D-041D6FBD0762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFE0254-6F8C-45C1-BA3D-041D6FBD0762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFE0254-6F8C-45C1-BA3D-041D6FBD0762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFE0254-6F8C-45C1-BA3D-041D6FBD0762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C4C5D91-7590-4C2B-994B-36D6D7A5601E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4C5D91-7590-4C2B-994B-36D6D7A5601E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4C5D91-7590-4C2B-994B-36D6D7A5601E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4C5D91-7590-4C2B-994B-36D6D7A5601E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096775B7-A2F1-48D5-8726-6956968C6B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096775B7-A2F1-48D5-8726-6956968C6B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096775B7-A2F1-48D5-8726-6956968C6B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096775B7-A2F1-48D5-8726-6956968C6B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F95B5BE-71FF-40F7-9048-980A06D37961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F95B5BE-71FF-40F7-9048-980A06D37961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F95B5BE-71FF-40F7-9048-980A06D37961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F95B5BE-71FF-40F7-9048-980A06D37961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F29F6A62-ACFF-421D-9A0A-2FDF62E417A8}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/hello0523
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = LMS.Api\\LMS.Api.csproj
+		SccProjectName1 = LMS.Api
+		SccLocalPath1 = LMS.Api
+		SccProjectUniqueName2 = LMS.Business\\LMS.Business.csproj
+		SccProjectName2 = LMS.Business
+		SccLocalPath2 = LMS.Business
+		SccProjectUniqueName3 = LMS.DataAccess\\LMS.DataAccess.csproj
+		SccProjectName3 = LMS.DataAccess
+		SccLocalPath3 = LMS.DataAccess
+		SccProjectUniqueName4 = LMS.Model\\LMS.Model.csproj
+		SccProjectName4 = LMS.Model
+		SccLocalPath4 = LMS.Model
+	EndGlobalSection
+EndGlobal
